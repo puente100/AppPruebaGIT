@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("Hola Mundo")
             Image(systemName: "trash.fill")
-            
+            Image(systemName: "trash.square.fill")
         }
         .padding()
     }
